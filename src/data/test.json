@@ -1,0 +1,627 @@
+{
+    "ca": {
+        "name": "Manel Gonzalez Rico",
+        "titulation": "Desenvolupador web Frontend",
+        "img": "/a2.jpg",
+        "about_me": "Desenvolupador júnior amb més d'un any d'experiència professional practica com a desenvolupador Full-Stack i Front-End. Principalment, he treballat amb React, Android Studio (Java) i Git per al control de versions. Graduat del cicle superior de Desenvolupament d'aplicacions multiplataforma(DAM), amb un Bootcamp de Front-end a l'IronHack, sempre buscant millorar els meus coneixements sota una mentalitat d'aprenentatge i creixement continu",
+        "banner": [
+            {
+                "name": "Linkedin",
+                "url": "https://www.linkedin.com/in/manel-gonzalez-rico/",
+                "img": "/linkedin.png"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/Manel-Gonzalez?tab=repositories",
+                "img": "/github.png"
+            },
+            {
+                "name": "Gmail",
+                "url": "mailto:manel.gonazlez.rico@gmail.com",
+                "img": "/gmail-logo.png"
+            }
+        ],
+        "section1": {
+            "section_titles": {
+                "job_title": "Treballs",
+                "education_title": "Estudis",
+                "course_title": "Cursos"
+            },
+            "jobs": [
+                {
+                    "company_name": "ENINTER",
+                    "logo": "/logo_eninter.png",
+                    "position": "DESAROLADOR JUNIOR",
+                    "location": "Barcelona",
+                    "i_year": "2022",
+                    "f_year": "2022",
+                    "desc": [
+                        "Trabajo bajo un ambiente Agile para añadir nuevas funcionalidades al ERP interno de la compañia, basado en la necesidad de los usuarios. Trabaje tanto en front-end(React, Bootstrap) y en BackEnd (SpringBoot, Java, SQL, APIS, Postman), usando Git para el control de versiones.",
+                        "Participación en la definicion de requisitos de las nuevas funcionalidades",
+                        "Debug de codigo y mantener la documentación al dia"
+                    ]
+                },
+                {
+                    "company_name": "FLOORFY",
+                    "logo": "/floorfy.svg",
+                    "position": "DESARROLLADOR ANDROID PRACTICAS",
+                    "location": "Barcelona",
+                    "i_year": "2021",
+                    "f_year": "2022",
+                    "desc": [
+                        "Ayuda en el desarrollo de la aplicación de telefono FLOORFY (visualizador de casas para alquiler / compra) utilziando Android Studio(Java),XML y Git para el control de Versiones. Desarrollando cambios y mejoras bajo demanda y debug del mismo"
+                    ]
+                },
+                {
+                    "company_name": "MYHEALTHWATCHER",
+                    "logo": "/mhw.png",
+                    "position": "DESARROLLADOR WEB PRACTICAS",
+                    "location": "Barcelona",
+                    "i_year": "2022",
+                    "f_year": "2022",
+                    "desc": [
+                        "Desarrollo Front-End de la app interna de los nutricionistas, utilizando Angular8"
+                    ]
+                }
+            ],
+            "education": [
+                {
+                    "name": "Bootcamp Desarrollador Front-End",
+                    "center": "Fundacio Esplai",
+                    "logo": "/esplai.png",
+                    "location": "Barcelona",
+                    "order": "0",
+                    "i_year": "2022",
+                    "f_year": "2022"
+                },
+                {
+                    "name": "Bootcamp Desarrollador Front-End",
+                    "center": "IronHack",
+                    "logo": "/ironhack.png",
+                    "location": "Barcelona",
+                    "order": "1",
+                    "i_year": "2022",
+                    "f_year": "2022"
+                },
+                {
+                    "name": "DESARROLLO DE APLICACIONES MULTIPLATAFORMA(CFGS)",
+                    "center": "Institut Obert de Catalunya(IOC)",
+                    "logo": "/ioc.png",
+                    "location": "Barcelona",
+                    "order": "2",
+                    "i_year": "2017",
+                    "f_year": "2021"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Web development - Complete fast track course",
+                    "center": "Udemy",
+                    "order": "0",
+                    "i_date": "FEBRERO 2020",
+                    "l_date": "JUNIO 2021"
+                },
+                {
+                    "name": "Git: Become an expert in Git & GitHub",
+                    "center": "Udemy",
+                    "order": "0",
+                    "i_date": "MARZO 2020",
+                    "l_date": " MARZO 2020"
+                }
+            ]
+        },
+        "section2": {
+            "section_titles": {
+                "skills_title": "Coneixements",
+                "languages_title": "Idiomes"
+            },
+            "details": [
+                {
+                    "location": "Barcelona",
+                    "country": "España",
+                    "phone": "677722475",
+                    "email": "manel.gonzalez.rico@gmail.com"
+                }
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "url": "https://github.com/Manel-Gonzalez"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "REACT",
+                    "order": "0",
+                    "type": "frontend",
+                    "img": "/atom.png"
+                },
+                {
+                    "name": "JavaScript",
+                    "order": "0",
+                    "type": "frontend",
+                    "img": "/js.png"
+                },
+                {
+                    "name": "HTML & CSS",
+                    "order": "0",
+                    "type": "frontend",
+                    "img": "/html.png"
+                },
+                {
+                    "name": "SQL",
+                    "order": "1",
+                    "type": "backend",
+                    "img": "/sql-server.png"
+                },
+                {
+                    "name": "Git",
+                    "order": "2",
+                    "type": "fullstack",
+                    "img": "/github.png"
+                },
+                {
+                    "name": "REST_API",
+                    "order": "3",
+                    "type": "fullstack",
+                    "img": "/api.png"
+                },
+                {
+                    "name": "Agile Development",
+                    "order": "2",
+                    "type": "softskill?",
+                    "img": "/github.png"
+                },
+                {
+                    "name": "Angular",
+                    "order": "4",
+                    "type": "frontend",
+                    "img": "/angular_50.png"
+                },
+                {
+                    "name": "Vue,js",
+                    "order": "4",
+                    "type": "frontend",
+                    "img": "/vue-js-48.png"
+                },
+                {
+                    "name": "Python",
+                    "order": "4",
+                    "type": "frontend",
+                    "img": "/python.png"
+                }
+            ],
+            "languages": [
+                {
+                    "languaje": "Castella",
+                    "level": "Natiu"
+                },
+                {
+                    "languaje": "Català",
+                    "level": "Natiu"
+                },
+                {
+                    "languaje": "Anglés",
+                    "level": "Intermig"
+                }
+            ],
+            "softskills": []
+        }
+    },
+    "es": {
+        "name": "Manel Gonzalez Rico",
+        "titulation": "Desarrollador web Frontend",
+        "img": "/a2.jpg",
+        "about_me": "Desarrollador junior con más de 1 año de experiencia profesional práctica como Desarrollador Full-Stack y Front-End. Principalmente he trabajado con React (HTML, CSS, JavaScript), Android Studio (Java) y Git para control de versiones. Graduado del programa profesional de Desarrollo de Aplicaciones Multiplataforma (DAM), con un bootcamp de Front-End en Ironhack, siempre buscando mejorar mis conocimientos bajo una mentalidad de aprendizaje y crecimiento continuo.",
+        "banner": [
+            {
+                "name": "Linkedin",
+                "url": "https://www.linkedin.com/in/manel-gonzalez-rico/",
+                "img": "/linkedin.png"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/Manel-Gonzalez?tab=repositories",
+                "img": "/github.png"
+            },
+            {
+                "name": "Gmail",
+                "url": "mailto:manel.gonazlez.rico@gmail.com",
+                "img": "/gmail-logo.png"
+            }
+        ],
+        "section1": {
+            "section_titles": {
+                "job_title": "Trabajos",
+                "education_title": "Estudios",
+                "course_title": "Cursos"
+            },
+            "jobs": [
+                {
+                    "company_name": "ENINTER",
+                    "logo": "/logo_eninter.png",
+                    "position": "Desarrollador Junior",
+                    "location": "Barcelona",
+                    "i_year": "2022",
+                    "f_year": "2022",
+                    "desc": [
+                        "Trabajo bajo un ambiente Agile para añadir nuevas funcionalidades al ERP interno de la compañia, basado en la necesidad de los usuarios. Trabaje tanto en front-end(React, Bootstrap) y en BackEnd (SpringBoot, Java, SQL, APIS, Postman), usando Git para el control de versiones.",
+                        "Participación en la definicion de requisitos de las nuevas funcionalidades",
+                        "Debug de codigo y mantener la documentación al dia"
+                    ]
+                },
+                {
+                    "company_name": "FLOORFY",
+                    "logo": "/floorfy.svg",
+                    "position": "DESARROLLADOR ANDROID PRACTICAS",
+                    "location": "Barcelona",
+                    "i_year": "2021",
+                    "f_year": "2022",
+                    "desc": [
+                        "Ayuda en el desarrollo de la aplicación de telefono FLOORFY (visualizador de casas para alquiler / compra) utilziando Android Studio(Java),XML y Git para el control de Versiones. Desarrollando cambios y mejoras bajo demanda y debug del mismo"
+                    ]
+                },
+                {
+                    "company_name": "MYHEALTHWATCHER",
+                    "logo": "/mhw.png",
+                    "position": "DESARROLLADOR WEB PRACTICAS",
+                    "location": "Barcelona",
+                    "i_year": "2022",
+                    "f_year": "2022",
+                    "desc": [
+                        "Desarrollo Front-End de la app interna de los nutricionistas, utilizando Angular8"
+                    ]
+                }
+            ],
+            "education": [
+                {
+                    "name": "Bootcamp Desarrollador Front-End",
+                    "center": "Fundacio Esplai",
+                    "logo": "/esplai.png",
+                    "location": "Barcelona",
+                    "order": "0",
+                    "i_year": "2022",
+                    "f_year": "2022"
+                },
+                {
+                    "name": "Bootcamp Desarrollador Front-End",
+                    "center": "IronHack",
+                    "logo": "/ironhack.png",
+                    "location": "Barcelona",
+                    "order": "1",
+                    "i_year": "2022",
+                    "f_year": "2022"
+                },
+                {
+                    "name": "DESARROLLO DE APLICACIONES MULTIPLATAFORMA(CFGS)",
+                    "center": "Institut Obert de Catalunya(IOC)",
+                    "logo": "/ioc.png",
+                    "location": "Barcelona",
+                    "order": "2",
+                    "i_year": "2017",
+                    "f_year": "2021"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Web development - Complete fast track course",
+                    "center": "Udemy",
+                    "order": "0",
+                    "i_date": "FEBRERO 2020",
+                    "l_date": "JUNIO 2021"
+                },
+                {
+                    "name": "Git: Become an expert in Git & GitHub",
+                    "center": "Udemy",
+                    "order": "0",
+                    "i_date": "MARZO 2020",
+                    "l_date": " MARZO 2020"
+                }
+            ]
+        },
+        "section2": {
+            "section_titles": {
+                "skills_title": "Conocimientos",
+                "languages_title": "Idiomas"
+            },
+            "details": [
+                {
+                    "location": "Barcelona",
+                    "country": "España",
+                    "phone": "677722475",
+                    "email": "manel.gonzalez.rico@gmail.com"
+                }
+            ],
+            "links": [
+                {
+                    "name": "Github",
+                    "url": "https://github.com/Manel-Gonzalez"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "REACT",
+                    "order": "0",
+                    "type": "frontend",
+                    "img": "/atom.png"
+                },
+                {
+                    "name": "JavaScript",
+                    "order": "0",
+                    "type": "frontend",
+                    "img": "/js.png"
+                },
+                {
+                    "name": "HTML & CSS",
+                    "order": "0",
+                    "type": "frontend",
+                    "img": "/html.png"
+                },
+                {
+                    "name": "SQL",
+                    "order": "1",
+                    "type": "backend",
+                    "img": "/sql-server.png"
+                },
+                {
+                    "name": "Git",
+                    "order": "2",
+                    "type": "fullstack",
+                    "img": "/github.png"
+                },
+                {
+                    "name": "REST_API",
+                    "order": "3",
+                    "type": "fullstack",
+                    "img": "/api.png"
+                },
+                {
+                    "name": "Agile Development",
+                    "order": "2",
+                    "type": "softskill?",
+                    "img": "/github.png"
+                },
+                {
+                    "name": "Angular",
+                    "order": "4",
+                    "type": "frontend",
+                    "img": "/angular_50.png"
+                },
+                {
+                    "name": "Vue,js",
+                    "order": "4",
+                    "type": "frontend",
+                    "img": "/vue-js-48.png"
+                },
+                {
+                    "name": "Python",
+                    "order": "4",
+                    "type": "frontend",
+                    "img": "/python.png"
+                }
+            ],
+            "languages": [
+                {
+                    "languaje": "Español",
+                    "level": "Nativo"
+                },
+                {
+                    "languaje": "Catalan",
+                    "level": "Nativo"
+                },
+                {
+                    "languaje": "Inglés",
+                    "level": "Intermedio"
+                }
+            ]
+        }
+    },
+    "en": {
+        "name": "Manel Gonzalez Rico",
+        "titulation": "FrontEnd Web Developer",
+        "img": "/a2.jpg",
+        "about_me": " Junior developer with 1+ years of professional hands-on experience as Full-Stack and Front-End Developer. Mainly worked with React (HTML, CSS, JavaScript), Android Studio (Java), and Git for version control. Graduated from the Multiplatform App Development professional program (DAM), with a front-end Ironhack bootcamp, always seeking to improve my knowledge under a continuous learning and growth mindset.",
+        "banner": [
+            {
+                "name": "Linkedin",
+                "url": "https://www.linkedin.com/in/manel-gonzalez-rico/",
+                "img": "/linkedin.png"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/Manel-Gonzalez?tab=repositories",
+                "img": "/github.png"
+            },
+            {
+                "name": "Gmail",
+                "url": "mailto:manel.gonazlez.rico@gmail.com",
+                "img": "/gmail-logo.png"
+            }
+        ],
+        "section1": {
+            "section_titles": {
+                "job_title": "Job Experience",
+                "education_title": "Education",
+                "course_title": "Courses"
+            },
+            "jobs": [
+                {
+                    "company_name": "ENINTER",
+                    "logo": "/logo_eninter.png",
+                    "position": "JUNIOR DEVELOPER",
+                    "location": "Barcelona",
+                    "i_year": "2022",
+                    "f_year": "2022",
+                    "desc": [
+                        " Worked under an Agile framework to add new functionalities to the company’s internal ERP, based on stakeholders' needs. Worked both in the front-end (React, Bootstrap, CSS, HTML) and the back-end (Spring Boot, Java, SQL, APIs, Postman), using GIT as version control.",
+                        "Participated in the definition of the requisites of new functionalities.",
+                        "Debuged code and kept the documentation up-to-date."
+                    ]
+                },
+                {
+                    "company_name": "FLOORFY",
+                    "logo": "/floorfy.svg",
+                    "position": "ANDROID DEVELOPER INTERN",
+                    "location": "Barcelona",
+                    "i_year": "2021",
+                    "f_year": "2022",
+                    "desc": [
+                        "Assisted in the development of the FLOORFY mobile app (online open house) using Android Studio (Java), XML, and GIT for version control. Performed changes and improvements under request and tested and debugged code."
+                    ]
+                },
+                {
+                    "company_name": "MYHEALTHWATCHER",
+                    "logo": "/mhw1.png",
+                    "position": "WEB DEVELOPER INTERN",
+                    "location": "Barcelona",
+                    "i_year": "2020",
+                    "f_year": "2020",
+                    "desc": [
+                        "Developed the Front-End of the internal app for nutritionists, using Angular8"
+                    ]
+                }
+            ],
+            "education": [
+                {
+                    "name": "Bootacamp Front-End Developer",
+                    "center": "Fundacio Esplai",
+                    "logo": "/esplai.png",
+                    "location": "Barcelona",
+                    "order": "0",
+                    "i_year": "2022",
+                    "f_year": "2022"
+                },
+                {
+                    "name": "Front-End Developer Bootcamp",
+                    "center": "IronHack",
+                    "logo": "/ironhack.png",
+                    "location": "Barcelona",
+                    "order": "1",
+                    "i_year": "2022",
+                    "f_year": "2022"
+                },
+                {
+                    "name": "MULTIPLATFORM APP DEVELOPMENT(CFGS)",
+                    "center": "Institut Obert de Catalunya(IOC)",
+                    "logo": "/ioc.png",
+                    "location": "Barcelona",
+                    "order": "2",
+                    "i_year": "2017",
+                    "f_year": "2021"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Web development - Complete fast track course",
+                    "center": "Udemy",
+                    "order": "0",
+                    "i_date": "FEBRUARY 2020",
+                    "l_date": "JUNE 2021"
+                },
+                {
+                    "name": "Git: Become an expert in Git & GitHub",
+                    "center": "Udemy",
+                    "order": "0",
+                    "i_date": "MARCH 2020",
+                    "l_date": " MARCH 2020"
+                }
+            ]
+        },
+        "section2": {
+            "section_titles": {
+                "skills_title": "Skills",
+                "languages_title": "Languages"
+            },
+            "details": [
+                {
+                    "location": "Barcelona",
+                    "country": "Spain",
+                    "phone": "677722475",
+                    "email": "manel.gonzalez.rico@gmail.com"
+                }
+            ],
+            "links": [
+                {
+                    "name": "github",
+                    "url": "https://github.com/Manel-Gonzalez"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "REACT",
+                    "order": "0",
+                    "type": "frontend",
+                    "img": "/atom.png"
+                },
+                {
+                    "name": "JavaScript",
+                    "order": "0",
+                    "type": "frontend",
+                    "img": "/js.png"
+                },
+                {
+                    "name": "HTML & CSS",
+                    "order": "0",
+                    "type": "frontend",
+                    "img": "/html.png"
+                },
+                {
+                    "name": "SQL",
+                    "order": "1",
+                    "type": "backend",
+                    "img": "/sql-server.png"
+                },
+                {
+                    "name": "Git",
+                    "order": "2",
+                    "type": "fullstack",
+                    "img": "/github.png"
+                },
+                {
+                    "name": "REST_API",
+                    "order": "3",
+                    "type": "fullstack",
+                    "img": "/api.png"
+                },
+                {
+                    "name": "Agile Development",
+                    "order": "2",
+                    "type": "softskill?",
+                    "img": "/github.png"
+                },
+                {
+                    "name": "Angular",
+                    "order": "4",
+                    "type": "frontend",
+                    "img": "/angular_50.png"
+                },
+                {
+                    "name": "Vue,js",
+                    "order": "4",
+                    "type": "frontend",
+                    "img": "/vue-js-48.png"
+                },
+                {
+                    "name": "Python",
+                    "order": "4",
+                    "type": "frontend",
+                    "img": "/python.png"
+                }
+            ],
+            "languages": [
+                {
+                    "languaje": "Spanish",
+                    "level": "Native"
+                },
+                {
+                    "languaje": "Catalan",
+                    "level": "Native"
+                },
+                {
+                    "languaje": "English",
+                    "level": "Intermediate"
+                }
+            ]
+        }
+    }
+}
