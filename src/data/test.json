@@ -2,8 +2,13 @@
     "ca": {
         "name": "Manel Gonzalez Rico",
         "titulation": "Desenvolupador web Frontend",
-        "img": "/a2.jpg",
+        "img": "/public/porftolio_img.png",
         "about_me": "Desenvolupador júnior amb més d'un any d'experiència professional practica com a desenvolupador Full-Stack i Front-End. Principalment, he treballat amb React, Android Studio (Java) i Git per al control de versions. Graduat del cicle superior de Desenvolupament d'aplicacions multiplataforma(DAM), amb un Bootcamp de Front-end a l'IronHack, sempre buscant millorar els meus coneixements sota una mentalitat d'aprenentatge i creixement continu",
+        "curriculum": {
+            "name": "CV",
+            "downloadCV": "/public/CV_Manel_Gonzalez.pdf",
+            "img": "/cv.png"
+        },
         "banner": [
             {
                 "name": "Linkedin",
@@ -54,7 +59,7 @@
                 },
                 {
                     "company_name": "MYHEALTHWATCHER",
-                    "logo": "/mhw.png",
+                    "logo": "/Empty.png",
                     "position": "DESARROLLADOR WEB PRACTICAS",
                     "location": "Barcelona",
                     "i_year": "2022",
@@ -167,10 +172,10 @@
                     "img": "/api.png"
                 },
                 {
-                    "name": "Agile Development",
+                    "name": "Postman",
                     "order": "2",
-                    "type": "softskill?",
-                    "img": "/github.png"
+                    "type": "fullstack",
+                    "img": "/postman-icon.png"
                 },
                 {
                     "name": "Angular",
@@ -211,8 +216,13 @@
     "es": {
         "name": "Manel Gonzalez Rico",
         "titulation": "Desarrollador web Frontend",
-        "img": "/a2.jpg",
+        "img": "/public/porftolio_img.png",
         "about_me": "Desarrollador junior con más de 1 año de experiencia profesional práctica como Desarrollador Full-Stack y Front-End. Principalmente he trabajado con React (HTML, CSS, JavaScript), Android Studio (Java) y Git para control de versiones. Graduado del programa profesional de Desarrollo de Aplicaciones Multiplataforma (DAM), con un bootcamp de Front-End en Ironhack, siempre buscando mejorar mis conocimientos bajo una mentalidad de aprendizaje y crecimiento continuo.",
+        "curriculum": {
+            "name": "CV",
+            "downloadCV": "/public/CV_Manel_Gonzalez.pdf",
+            "img": "/cv.png"
+        },
         "banner": [
             {
                 "name": "Linkedin",
@@ -263,7 +273,7 @@
                 },
                 {
                     "company_name": "MYHEALTHWATCHER",
-                    "logo": "/mhw.png",
+                    "logo": "/Empty.png",
                     "position": "DESARROLLADOR WEB PRACTICAS",
                     "location": "Barcelona",
                     "i_year": "2022",
@@ -376,10 +386,10 @@
                     "img": "/api.png"
                 },
                 {
-                    "name": "Agile Development",
+                    "name": "Postman",
                     "order": "2",
-                    "type": "softskill?",
-                    "img": "/github.png"
+                    "type": "fullstack",
+                    "img": "/postman-icon.png"
                 },
                 {
                     "name": "Angular",
@@ -419,8 +429,13 @@
     "en": {
         "name": "Manel Gonzalez Rico",
         "titulation": "FrontEnd Web Developer",
-        "img": "/a2.jpg",
+        "img": "/public/porftolio_img.png",
         "about_me": " Junior developer with 1+ years of professional hands-on experience as Full-Stack and Front-End Developer. Mainly worked with React (HTML, CSS, JavaScript), Android Studio (Java), and Git for version control. Graduated from the Multiplatform App Development professional program (DAM), with a front-end Ironhack bootcamp, always seeking to improve my knowledge under a continuous learning and growth mindset.",
+        "curriculum": {
+            "name": "CV",
+            "downloadCV": "/public/CV_Manel_Gonzalez.pdf",
+            "img": "/cv.png"
+        },
         "banner": [
             {
                 "name": "Linkedin",
@@ -471,7 +486,7 @@
                 },
                 {
                     "company_name": "MYHEALTHWATCHER",
-                    "logo": "/mhw1.png",
+                    "logo": "/Empty.png",
                     "position": "WEB DEVELOPER INTERN",
                     "location": "Barcelona",
                     "i_year": "2020",
@@ -584,10 +599,10 @@
                     "img": "/api.png"
                 },
                 {
-                    "name": "Agile Development",
+                    "name": "Postman",
                     "order": "2",
-                    "type": "softskill?",
-                    "img": "/github.png"
+                    "type": "fullstack",
+                    "img": "/postman-icon.png"
                 },
                 {
                     "name": "Angular",
