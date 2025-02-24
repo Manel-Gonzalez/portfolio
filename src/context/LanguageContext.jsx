@@ -5,10 +5,6 @@ export const LanguageContext = createContext();
 export const LanguageProvider = ({children}) => {
   const [language, setLanguage] = useState("es");
 
-  useEffect(() => {
-    console.log("Language changed to:", language);
-  }, [language]);
-
   return (
     <LanguageContext.Provider value={{language, setLanguage}}>
       {children}

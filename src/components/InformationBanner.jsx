@@ -6,11 +6,10 @@ const InformationBanner = () => {
   const {language} = useContext(LanguageContext);
   const jsonData = diccionario[language];
 
+  console.log("quesoy?", jsonData);
+
   return (
-    <div
-      className="flex justify-between flex-row w-100 bg-white mx-4 rounded-md shadow-lg shadow-gray-500/65 border border-slate-200 dark:bg-dark-background dark:text-dark-text
-"
-    >
+    <div className="flex justify-between flex-row w-100 bg-white mx-4 mb-4 rounded-md shadow-lg shadow-gray-500/65 border border-slate-200 dark:bg-dark-background dark:text-dark-text">
       <div className="w-6 m-3 transform transition duration-500 hover:scale-125 ">
         <a href={jsonData.curriculum?.downloadCV} download>
           <img src={jsonData.curriculum?.img} alt={jsonData.curriculum?.name} />

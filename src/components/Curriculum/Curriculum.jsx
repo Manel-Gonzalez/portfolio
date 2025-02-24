@@ -5,6 +5,7 @@ import InformationBanner from "../InformationBanner";
 import OccupationalSkills from "./OccupationalSkills/OccupationalSkills";
 import Details from "./Details/Details";
 import ToggleThemeButton from "../ToggleThemeButton";
+import Projects from "../Projects";
 
 const Curriculum = () => {
   return (
@@ -15,6 +16,7 @@ const Curriculum = () => {
       </div>
       <Profile />
       <InformationBanner />
+      <Projects />
 
       <div className="flex flex-col md:flex-row">
         <OccupationalSkills />

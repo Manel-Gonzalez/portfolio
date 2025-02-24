@@ -1,4 +1,84 @@
 {
+    "skills": [
+        {
+            "name": "REACT",
+            "order": "0",
+            "type": "frontend",
+            "img": "/atom.png"
+        },
+        {
+            "name": "NEXTJS",
+            "order": "0",
+            "type": "frontend",
+            "img": "/nextJs.png"
+        },
+        {
+            "name": "Ruby on Rails",
+            "order": "0",
+            "type": "frontend",
+            "img": "/ruby-on-rails.png"
+        },
+        {
+            "name": "TypeScript",
+            "order": "0",
+            "type": "frontend",
+            "img": "/typescript.png"
+        },
+        {
+            "name": "JavaScript",
+            "order": "0",
+            "type": "frontend",
+            "img": "/js.png"
+        },
+        {
+            "name": "HTML & CSS",
+            "order": "0",
+            "type": "frontend",
+            "img": "/html.png"
+        },
+        {
+            "name": "SQL",
+            "order": "1",
+            "type": "backend",
+            "img": "/sql.png"
+        },
+        {
+            "name": "Git",
+            "order": "2",
+            "type": "fullstack",
+            "img": "/github.png"
+        },
+        {
+            "name": "REST_API",
+            "order": "3",
+            "type": "fullstack",
+            "img": "/api.png"
+        },
+        {
+            "name": "Postman",
+            "order": "2",
+            "type": "fullstack",
+            "img": "/postman-icon.png"
+        },
+        {
+            "name": "Angular",
+            "order": "4",
+            "type": "frontend",
+            "img": "/angular_50.png"
+        },
+        {
+            "name": "Vue,js",
+            "order": "4",
+            "type": "frontend",
+            "img": "/vue-js-48.png"
+        },
+        {
+            "name": "Python",
+            "order": "4",
+            "type": "frontend",
+            "img": "/python.png"
+        }
+    ],
     "ca": {
         "name": "Manel Gonzalez Rico",
         "titulation": "Desenvolupador web Frontend",
@@ -154,86 +234,6 @@
                 {
                     "name": "Github",
                     "url": "https://github.com/Manel-Gonzalez"
-                }
-            ],
-            "skills": [
-                {
-                    "name": "REACT",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/atom.png"
-                },
-                {
-                    "name": "NEXTJS",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/nextJs.png"
-                },
-                {
-                    "name": "Ruby on Rails",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/ruby-on-rails.png"
-                },
-                {
-                    "name": "TypeScript",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/typescript.png"
-                },
-                {
-                    "name": "JavaScript",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/js.png"
-                },
-                {
-                    "name": "HTML & CSS",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/html.png"
-                },
-                {
-                    "name": "SQL",
-                    "order": "1",
-                    "type": "backend",
-                    "img": "/sql.png"
-                },
-                {
-                    "name": "Git",
-                    "order": "2",
-                    "type": "fullstack",
-                    "img": "/github.png"
-                },
-                {
-                    "name": "REST_API",
-                    "order": "3",
-                    "type": "fullstack",
-                    "img": "/api.png"
-                },
-                {
-                    "name": "Postman",
-                    "order": "2",
-                    "type": "fullstack",
-                    "img": "/postman-icon.png"
-                },
-                {
-                    "name": "Angular",
-                    "order": "4",
-                    "type": "frontend",
-                    "img": "/angular_50.png"
-                },
-                {
-                    "name": "Vue,js",
-                    "order": "4",
-                    "type": "frontend",
-                    "img": "/vue-js-48.png"
-                },
-                {
-                    "name": "Python",
-                    "order": "4",
-                    "type": "frontend",
-                    "img": "/python.png"
                 }
             ],
             "languages": [
@@ -410,86 +410,6 @@
                     "url": "https://github.com/Manel-Gonzalez"
                 }
             ],
-            "skills": [
-                {
-                    "name": "REACT",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/atom.png"
-                },
-                {
-                    "name": "NEXTJS",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/nextJs.png"
-                },
-                {
-                    "name": "Ruby on Rails",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/ruby-on-rails.png"
-                },
-                {
-                    "name": "TypeScript",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/typescript.png"
-                },
-                {
-                    "name": "JavaScript",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/js.png"
-                },
-                {
-                    "name": "HTML & CSS",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/html.png"
-                },
-                {
-                    "name": "SQL",
-                    "order": "1",
-                    "type": "backend",
-                    "img": "/sql.png"
-                },
-                {
-                    "name": "Git",
-                    "order": "2",
-                    "type": "fullstack",
-                    "img": "/github.png"
-                },
-                {
-                    "name": "REST_API",
-                    "order": "3",
-                    "type": "fullstack",
-                    "img": "/api.png"
-                },
-                {
-                    "name": "Postman",
-                    "order": "2",
-                    "type": "fullstack",
-                    "img": "/postman-icon.png"
-                },
-                {
-                    "name": "Angular",
-                    "order": "4",
-                    "type": "frontend",
-                    "img": "/angular_50.png"
-                },
-                {
-                    "name": "Vue,js",
-                    "order": "4",
-                    "type": "frontend",
-                    "img": "/vue-js-48.png"
-                },
-                {
-                    "name": "Python",
-                    "order": "4",
-                    "type": "frontend",
-                    "img": "/python.png"
-                }
-            ],
             "languages": [
                 {
                     "languaje": "Español",
@@ -661,86 +581,6 @@
                 {
                     "name": "github",
                     "url": "https://github.com/Manel-Gonzalez"
-                }
-            ],
-            "skills": [
-                {
-                    "name": "REACT",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/atom.png"
-                },
-                {
-                    "name": "NEXTJS",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/nextJs.png"
-                },
-                {
-                    "name": "Ruby on Rails",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/ruby-on-rails.png"
-                },
-                {
-                    "name": "TypeScript",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/typescript.png"
-                },
-                {
-                    "name": "JavaScript",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/js.png"
-                },
-                {
-                    "name": "HTML & CSS",
-                    "order": "0",
-                    "type": "frontend",
-                    "img": "/html.png"
-                },
-                {
-                    "name": "SQL",
-                    "order": "1",
-                    "type": "backend",
-                    "img": "/sql.png"
-                },
-                {
-                    "name": "Git",
-                    "order": "2",
-                    "type": "fullstack",
-                    "img": "/github.png"
-                },
-                {
-                    "name": "REST_API",
-                    "order": "3",
-                    "type": "fullstack",
-                    "img": "/api.png"
-                },
-                {
-                    "name": "Postman",
-                    "order": "2",
-                    "type": "fullstack",
-                    "img": "/postman-icon.png"
-                },
-                {
-                    "name": "Angular",
-                    "order": "4",
-                    "type": "frontend",
-                    "img": "/angular_50.png"
-                },
-                {
-                    "name": "Vue,js",
-                    "order": "4",
-                    "type": "frontend",
-                    "img": "/vue-js-48.png"
-                },
-                {
-                    "name": "Python",
-                    "order": "4",
-                    "type": "frontend",
-                    "img": "/python.png"
                 }
             ],
             "languages": [
