@@ -11,7 +11,7 @@ const Details = () => {
   const section2 = "section2";
 
   return (
-    <div className="md:w-1/3 p-2 col-span-1 bg-white m-4 rounded-md shadow-lg shadow-gray-500/65 border border-slate-200">
+    <div className="md:w-1/3 p-2 col-span-1 bg-white m-4 rounded-md shadow-lg shadow-gray-500/65 border border-slate-200 dark:bg-dark-background dark:text-dark-text">
       <Location details={jsonData[section2]?.details} />
       <Skills
         skills={jsonData[section2]?.skills}

@@ -1,15 +1,17 @@
 import React from "react";
 
 const Education = ({education, sectionTitle}) => {
+  console.log(sectionTitle);
+
   return (
-    <div>
-      <h2 className="w-100 m-4 font-semibold text-xl shadow-md p-3 bg-white rounded-md shadow-gray-500/65 border border-slate-200">
+    <div className="">
+      <h2 className="w-100 m-4 font-semibold text-xl shadow-md p-3 bg-white rounded-md shadow-gray-500/65 border border-slate-200  dark:bg-dark-background dark:text-dark-text">
         {sectionTitle}
       </h2>
       {education.map((e) => (
         <div
-          key={e.name}
-          className="flex flex-col gap-2 m-8 p-4 bg-gray-100/20 rounded-md shadow-inner shadow-gray-500/65 border border-slate-200"
+          key={e.center}
+          className="flex flex-col gap-2 m-8 p-4 bg-gray-100/20 rounded-md shadow-inner shadow-gray-500/65 border border-slate-200  dark:bg-dark-background dark:text-dark-text"
         >
           <h3 className="font-bold text-xl h-fit align-middle">{e.name}</h3>
           <div className="flex flex-row gap-4 align-middle items-center">

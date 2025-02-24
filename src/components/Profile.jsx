@@ -11,7 +11,7 @@ const Profile = () => {
   }, [language]);
 
   return (
-    <div className="flex flex-col md:flex-row bg-white m-4 rounded-md shadow-lg shadow-gray-500/65 border border-slate-200">
+    <div className="flex flex-col md:flex-row bg-white m-4 rounded-md shadow-lg shadow-gray-500/65 border border-slate-200  dark:bg-dark-background dark:text-dark-text">
       <div className="p-8 w-100 md:w-2/5 md:row-span-3 col-span-1">
         <div className="w-100 p-1 flex justify-center">
           <img className="p-1" src={jsonData.img} alt="Profile" />

@@ -4,11 +4,15 @@ import Profile from "../Profile";
 import InformationBanner from "../InformationBanner";
 import OccupationalSkills from "./OccupationalSkills/OccupationalSkills";
 import Details from "./Details/Details";
+import ToggleThemeButton from "../ToggleThemeButton";
 
 const Curriculum = () => {
   return (
     <div className="">
-      <LanguageSelector />
+      <div className="flex justify-between">
+        <LanguageSelector />
+        <ToggleThemeButton />
+      </div>
       <Profile />
       <InformationBanner />
 

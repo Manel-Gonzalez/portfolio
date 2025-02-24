@@ -6,7 +6,7 @@ const Location = ({details}) => {
       {details.map((detail, index) => (
         <div
           key={index}
-          className="flex flex-col m-8 p-4 bg-gray-100/20 rounded-md shadow-inner shadow-gray-500/65 border border-slate-200"
+          className="flex flex-col m-8 p-4 bg-gray-100/20 rounded-md shadow-inner shadow-gray-500/65 border border-slate-200  dark:bg-dark-background dark:text-dark-text"
         >
           <p>{detail.location}</p>
           <p>{detail.country}</p>

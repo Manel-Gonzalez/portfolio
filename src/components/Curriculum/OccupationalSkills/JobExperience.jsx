@@ -3,13 +3,13 @@ import React from "react";
 const JobExperience = ({jobs, sectionTitle}) => {
   return (
     <div>
-      <h2 className="my-12 m-4 font-semibold text-lg shadow-md p-3 bg-white rounded-md shadow-gray-500/65 border border-slate-200">
+      <h2 className="my-12 m-4 font-semibold text-lg shadow-md p-3 bg-white rounded-md shadow-gray-500/65 border border-slate-200  dark:bg-dark-background dark:text-dark-text">
         {sectionTitle}
       </h2>
       {jobs.map((job) => (
         <div
           key={job.company_name}
-          className="m-8 p-4 bg-gray-100/20 rounded-md shadow-inner shadow-gray-500/65 border border-slate-200"
+          className="m-8 p-4 bg-gray-100/20 rounded-md shadow-inner shadow-gray-500/65 border border-slate-200  dark:bg-dark-background dark:text-dark-text"
         >
           <div className="flex flex-row items-center gap-4">
             <h3 className="font-bold text-xl h-fit align-middle">

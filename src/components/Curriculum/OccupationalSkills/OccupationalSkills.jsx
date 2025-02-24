@@ -11,7 +11,7 @@ const OccupationalSkills = () => {
   const section1 = "section1";
 
   return (
-    <div className="md:w-2/3 m-4 rounded-md bg-white shadow-lg shadow-gray-500/65 border border-slate-200 col-span-3">
+    <div className="md:w-2/3 m-4 rounded-md bg-white shadow-lg shadow-gray-500/65 border border-slate-200 col-span-3  dark:bg-dark-background dark:text-dark-text">
       <JobExperience
         jobs={jsonData[section1]?.jobs}
         sectionTitle={jsonData[section1]?.section_titles.job_title}
